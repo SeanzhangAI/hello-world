@@ -1,0 +1,1 @@
+Test Readme file for Git GUI test repository.
